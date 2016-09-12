@@ -1,0 +1,9 @@
+<resources>
+	<string name="app_name">Imgur Upload</string>
+	<string name="pick_image_button">Pick an image</string>
+	<string name="image_not_selected">Image not selected</string>
+	<string name="unable_to_open_image">Can\'t open the image</string>
+	<string name="image_selected">Image selected</string>
+	<string name="upload">Upload</string>
+	<string name="imgur_upload_fail">Uploading to imgur failed!</string>
+</resources>
